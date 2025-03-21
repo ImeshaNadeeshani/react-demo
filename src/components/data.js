@@ -69,7 +69,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>FET Time Tables</h1>
+        <h1>AcademiSync</h1>
       </header>
       <div id="mainForm">
         <fieldset>

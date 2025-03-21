@@ -31,7 +31,7 @@ const Login = () => {
   return (
     <div id="wrapper">
       <header>
-        <h1 className="mainheader">FET Login</h1>
+        <h1 className="mainheader">AcademiSync Login</h1>
       </header>
       <form onSubmit={handleLogin}>
         <fieldset style={{ width: "275px", height: "275px", margin: "0 auto" }}>

@@ -14,7 +14,7 @@ const TimetableConstraints = () => {
   return (
     <div id="wrapper" style={styles.wrapper}>
       <header style={styles.header}>
-        <h1 className="mainheader">FET Time Tables</h1>
+        <h1 className="mainheader">AcademiSync</h1>
         <Link to="/data" style={styles.button}>Go to Data</Link> {/* Button on top-right */}
       </header>
       <div id="mainForm" style={styles.mainForm}>
@@ -53,7 +53,7 @@ const Article = () => {
 const Footer = () => {
   return (
     <footer style={styles.footer}>
-      <p>© 2025 FET Timetables. All rights reserved.</p>
+      <p>© 2025 AcademiSync. All rights reserved.</p>
     </footer>
   );
 };
@@ -108,3 +108,28 @@ const styles = {
 };
 
 export default TimetableConstraints;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
